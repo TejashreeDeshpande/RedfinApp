@@ -2,6 +2,13 @@
 
 A real estate application demo inspired by Redfin, showcasing modern Android development practices with Jetpack Compose.
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/listings.png" width="30%" />
+  <img src="screenshots/details.png" width="30%" />
+</p>
+
 ## Features
 
 - **Property Listings**: Browse a collection of available properties with key details like price, beds, and baths.
